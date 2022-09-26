@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ale Vedoya</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
-<img align="right" alt="Coding" width="450" src="https://cdn.pixabay.com/photo/2019/08/21/16/18/laptop-4421417_960_720.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alevedoya&label=Profile%20views&color=0e75b6&style=flat" alt="alevedoya" /> </p>
 
