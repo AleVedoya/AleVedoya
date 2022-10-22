@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alevedoya&label=Profile%20views&color=0e75b6&style=flat" alt="alevedoya" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Docker**
+- 🌱 I’m currently learning **Java, Docker**
 
 - 💬 Ask me about **Html, Css, JavaScript**
 
