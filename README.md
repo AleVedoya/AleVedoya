@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alevedoya&label=Profile%20views&color=0e75b6&style=flat" alt="alevedoya" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, React, Docker**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **Java, SpringBoot**
 
 - 📫 How to reach me **alevedoyaok@gmail.com**
 
